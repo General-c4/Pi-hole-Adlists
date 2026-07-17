@@ -18,4 +18,4 @@
 0.0.0.0 i.ytimg.com
 0.0.0.0 ytimg.com
 0.0.0.0 sdkeventfnt-asia.dsp-api.moloco.com
-
+0.0.0.0 app-analytics-services.com
