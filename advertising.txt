@@ -1,0 +1,5 @@
+# Pi-hole-Adlists
+# Category: Advertising
+# Description: Advertising and Ad Network Domains
+
+0.0.0.0 madurird.com
