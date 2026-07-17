@@ -5,3 +5,5 @@
 0.0.0.0 madurird.com
 0.0.0.0 ay267.com
 0.0.0.0 rr.tracker.mobiletracking.ru
+0.0.0.0 shein.com
+0.0.0.0 us.shein.com
