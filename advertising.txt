@@ -3,3 +3,5 @@
 # Description: Advertising and Ad Network Domains
 
 0.0.0.0 madurird.com
+0.0.0.0 ay267.com
+0.0.0.0 rr.tracker.mobiletracking.ru
