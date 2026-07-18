@@ -26,3 +26,6 @@
 0.0.0.0 gateway.unityads.unity3d.com
 0.0.0.0 noti-asia.adsmoloco.com
 0.0.0.0 odf.app-ads-services.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 api.smoot.apple.com
+0.0.0.0 api-glb-aeuw1b.smoot.apple.com
