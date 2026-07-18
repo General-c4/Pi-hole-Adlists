@@ -33,3 +33,4 @@
 0.0.0.0 www.srmdata.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 tiktok.tps.dv.tech
+0.0.0.0 yt3.ggpht.com
