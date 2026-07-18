@@ -29,3 +29,6 @@
 0.0.0.0 metrics.icloud.com
 0.0.0.0 api.smoot.apple.com
 0.0.0.0 api-glb-aeuw1b.smoot.apple.com
+0.0.0.0 app-measurement.com
+0.0.0.0 log22-normal-alisg.tiktokv.com
+0.0.0.0 roovza.cdn-settings.appsflyersdk.com
